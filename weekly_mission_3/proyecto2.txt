@@ -1,5 +1,0 @@
-> ## Link del repo del proyecto 2 semana 3 Back-end LauncX
-
-> ### En este link se encuentra una practica en donde se empezo a aplicar conceptos de TDD
-
-> https://github.com/Zavaladaniela/Proyecto2_Semana3_LaunchX.git
