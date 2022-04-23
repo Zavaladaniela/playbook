@@ -1,5 +1,0 @@
-## Link de mi repo del proyecto 1 de la seman 3 Back-end LaunchX
-
-En este link se almacena una practica en donde se pone en practica la creacion de proyectos de Node JS
-
-https://github.com/Zavaladaniela/Proyecto1_Semana3_LaunchX.git
